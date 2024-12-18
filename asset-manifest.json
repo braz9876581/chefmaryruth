@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chefmaryruth/static/css/main.a783baec.css",
+    "main.css": "/chefmaryruth/static/css/main.6499e0d8.css",
     "main.js": "/chefmaryruth/static/js/main.ce73a0c3.js",
     "index.html": "/chefmaryruth/index.html",
-    "main.a783baec.css.map": "/chefmaryruth/static/css/main.a783baec.css.map",
+    "main.6499e0d8.css.map": "/chefmaryruth/static/css/main.6499e0d8.css.map",
     "main.ce73a0c3.js.map": "/chefmaryruth/static/js/main.ce73a0c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a783baec.css",
+    "static/css/main.6499e0d8.css",
     "static/js/main.ce73a0c3.js"
   ]
 }
